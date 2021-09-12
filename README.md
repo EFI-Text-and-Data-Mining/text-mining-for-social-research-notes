@@ -1,1 +1,1 @@
-# text-mining-for-social-researc-notes
+# text-mining-for-social-research-notes
